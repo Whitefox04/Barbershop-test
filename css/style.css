@@ -9,8 +9,13 @@
 	padding: 0 10;
 	margin: 0 auto;
 }
-
+/*-----------------------------Шапка------------------------------*/
 .main-header {
+	margin-bottom: 60px;
+	background-color: black;
+}
+
+.shop-header {
 	margin-bottom: 60px;
 	background-color: black;
 }
@@ -33,7 +38,7 @@
 }
 
 .main-nav li a {
-	color: aliceblue;
+	color: white;
 	text-decoration: none;
 	font-size: 16px;
 	font-weight: bold;
@@ -42,7 +47,8 @@
 .user-block {
 	width: 140px;
 	float: right;
-	margin-top: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .user-block a {
@@ -50,8 +56,9 @@
 	text-decoration: none;
 	font-size: 16px;
 	font-weight: bold;
+	
 }
-
+/*------------------------------/Шапка-------------------------------*/
 .index-logo {
 	width: 368px;
 	height: 204px;
